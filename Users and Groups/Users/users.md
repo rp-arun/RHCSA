@@ -80,7 +80,7 @@ Users home director is defaultly copied with some files that comes from **/etc/s
 
 ***
 
-> #usermod - this command changes the properties of users
+> **#usermod** - this command changes the properties of users
 > ![Screenshot from 2021-12-09 20-34-13](https://user-images.githubusercontent.com/73754563/145421140-b6157eb3-853e-4562-81a3-72354549d1e4.png)
 
 
