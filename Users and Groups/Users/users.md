@@ -4,7 +4,6 @@
 1. **Normal Users**  - Team
 2. **System Users**  - User created for services
 3. **Root User**     - Super user 
-![143580481-406d844a-06ba-4621-acb6-7d2ae5d19f33](https://user-images.githubusercontent.com/73754563/145420946-c31b522e-f4d6-4f82-a168-888090dd9780.png)
 
 ***
 
