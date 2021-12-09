@@ -4,6 +4,7 @@
 1. **Normal Users**  - Team
 2. **System Users**  - User created for services
 3. **Root User**     - Super user 
+![143580481-406d844a-06ba-4621-acb6-7d2ae5d19f33](https://user-images.githubusercontent.com/73754563/145420946-c31b522e-f4d6-4f82-a168-888090dd9780.png)
 
 ***
 
@@ -72,8 +73,14 @@ user : $6$16digit$encpassword : password aging policies
 
 Users home director is defaultly copied with some files that comes from **/etc/skell** dir
 
-![Screenshot from 2021-12-09 20-09-37](https://user-images.githubusercontent.com/73754563/145418824-342e7e19-132c-4b61-acf1-8d4423b1c84b.png)
+> ![Screenshot from 2021-12-09 20-09-37](https://user-images.githubusercontent.com/73754563/145418824-342e7e19-132c-4b61-acf1-8d4423b1c84b.png)
 
 - **.bashrc** and **.bash_logout** executes during login time.
 - **.bash_logout** executes during logout.
+
+***
+
+> #usermod - this command changes the properties of users
+> ![Screenshot from 2021-12-09 20-34-13](https://user-images.githubusercontent.com/73754563/145421140-b6157eb3-853e-4562-81a3-72354549d1e4.png)
+
 
