@@ -67,4 +67,13 @@ user : $6$16digit$encpassword : password aging policies
 >The following options can be given with chage command to change password aging policy
 ![Screenshot from 2021-11-26 17-56-09](https://user-images.githubusercontent.com/73754563/143581036-4aa4a7a1-6218-4f13-beda-b61aa7ebd929.png)
 
+> We can provide default values in **/etc/login.defs** as well
 ***
+
+Users home director is defaultly copied with some files that comes from **/etc/skell** dir
+
+![Screenshot from 2021-12-09 20-09-37](https://user-images.githubusercontent.com/73754563/145418824-342e7e19-132c-4b61-acf1-8d4423b1c84b.png)
+
+- **.bashrc** and **.bash_logout** executes during login time.
+- **.bash_logout** executes during logout.
+
