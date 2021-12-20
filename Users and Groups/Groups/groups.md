@@ -18,3 +18,6 @@ During group creation entry will be added to **/etc/group**
 
 
 > **#groups** or **#id** command will shows the groups which the user blongs to.
+
+
+
