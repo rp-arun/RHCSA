@@ -19,5 +19,7 @@ During group creation entry will be added to **/etc/group**
 
 > **#groups** or **#id** command will shows the groups which the user blongs to.
 
+> **#getent group** command shows all the available groups.
+
 
 
